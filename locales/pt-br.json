@@ -1,0 +1,50 @@
+{
+  "error": {
+    "cancelled": "Processo cancelado...",
+    "didnt_work": "Não funcionou...",
+    "do_some_work": "Faça algum trabalho para redução da sentença, trabalho instantâneo: %s",
+    "door_open": "A porta já está aberta...",
+    "emty_box": "A caixa está vazia...",
+    "escaped": "Você escapou... Saia daqui!",
+    "injail": "Você está na prisão por %s meses...",
+    "item_missing": "Você está sem um item...",
+    "missing_something": "Parece que você está sem algo...",
+    "not_enough_police": "Não há polícia suficiente...",
+    "security_activated": "Nível de segurança máximo ativado, fique nas celas!"
+  },
+  "info": {
+    "canteen_blip": "Refeitório",
+    "cells_blip": "Celulares",
+    "connecting_device": "Conectando dispositivo",
+    "freedom_blip": "Recepção da prisão",
+    "job_interaction": "[E] Trabalho de Eletricidade",
+    "job_interaction_target": "Faça o trabalho de %s",
+    "lost_job": "Você está desempregado",
+    "police_alert_description": "Rebelião na prisão",
+    "police_alert_title": "Nova chamada",
+    "received_property": "Você recuperou sua propriedade...",
+    "seized_property": "Sua propriedade foi apreendida, você receberá tudo de volta quando sua pena terminar...",
+    "target_canteen_option": "Pegar comida",
+    "target_freedom_option": "Verificar hora",
+    "check_time": "[E] Verificar hora",
+    "open_canteen": "[E] Abrir refeitório",
+    "system_lockdown": "BLOQUEIO DO SISTEMA",
+    "system_breach": "VIOLAÇÃO DO SISTEMA",
+    "timeleft": "Você ainda tem que... %s meses",
+    "work_blip": "Trabalho na prisão",
+    "working_electricity": "Conectando fios"
+  },
+  "success": {
+    "found_item": "Você encontrou um(a) %s...",
+    "free_": "Você está livre! Aproveite! :)",
+    "time_cut": "Você trabalhou algum tempo e reduziu sua sentença.",
+    "timesup": "Seu tempo acabou! Faça o check-out no centro de visitantes",
+    "and_here_we_go_again": "E lá vamos nós novamente...",
+    "back_to_square_one": "Parece que estamos de volta à estaca zero :(",
+    "ready_to_have_some_fun": "E aí, pronto para se divertir com o DOC?",
+    "find_a_cozy_bed": "Encontre uma cama confortável, vamos ficar aqui por um tempo",
+    "friendly_neighborhood_troublemaker": "Apenas o encrenqueiro amigável do bairro",
+    "back_to_the_ol_ball_and_chain": "De volta à velha bola e corrente",
+    "insert_sad_face": "Insira uma cara triste aqui"
+  }
+}
